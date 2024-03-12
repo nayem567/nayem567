@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **html, css, sass, bootstrap, javascript**
 
-- 📫 How to reach me **nayem567@gmail.com**
+- 📫 Reach Me: **nayem.pw**
+
+- 📫 Reach Me **nayem567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
