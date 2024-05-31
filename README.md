@@ -8,11 +8,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayem567?tab=repositories](https://github.com/nayem567?tab=repositories)
 
-- 💬 Ask me about **html, css, sass, bootstrap, javascript**
+- 💬 Interested in **html, css, sass, bootstrap, Javascript, React**
 
-- 📫 Reach Me: [https://nayem.pw](https://nayem.pw)
+- 📫 My Portfolio : [https://nayem.pw](https://nayem.pw)
+
+- 📫 My Fiverr : [fiverr.com/mohaymenul_](https://www.fiverr.com/mohaymenul_)
+  
+- 📫 My Upwork : [upwork.com/freelancers/mohaymenuli2](https://www.upwork.com/freelancers/mohaymenuli2)
 
 - 📫 Reach Me **nayem567@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
