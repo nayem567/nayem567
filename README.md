@@ -10,13 +10,15 @@
 
 - 💬 Interested in **html, css, sass, bootstrap, Javascript, React**
 
-- 📫 My Portfolio : [https://nayem.pw](https://nayem.pw)
+- 📫 My Portfolio Website : [https://nayem.pw](https://nayem.pw)
 
 - 📫 My Fiverr : [fiverr.com/mohaymenul_](https://www.fiverr.com/mohaymenul_)
   
 - 📫 My Upwork : [upwork.com/freelancers/mohaymenuli2](https://www.upwork.com/freelancers/mohaymenuli2)
 
-- 📫 My Fiverr : [Linkedin](www.linkedin.com/in/mohaymenul-islam)
+- 📫 LinkedIn : [linkedin.com/in/mohaymenul-islam](www.linkedin.com/in/mohaymenul-islam)
+
+- 📫 Frontend Mentor Profile 🎉 : [https://www.frontendmentor.io/profile/nayem567](https://www.frontendmentor.io/profile/nayem567)
 
 - 📫 Reach Me **nayem567@gmail.com**
 
