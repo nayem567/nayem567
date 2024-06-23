@@ -43,7 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nayem567/nayem567/output/snake.svg" alt="Snake animation" />
 
 ###
 
