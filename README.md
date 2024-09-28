@@ -55,5 +55,16 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<!-- Adding two images side by side -->
+<h3 align="center">My Projects:</h3>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F/view?usp=sharing">
+    <img src="https://drive.google.com/uc?id=1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F" alt="Project 1" width="300" style="margin: 10px;" />
+  </a>
+  <a href="https://drive.google.com/file/d/16hT0UhzbqQP-dnAEtGplcQeNijabfnub/view?usp=sharing">
+    <img src="https://drive.google.com/uc?id=16hT0UhzbqQP-dnAEtGplcQeNijabfnub" alt="Project 2" width="300" style="margin: 10px;" />
+  </a>
+</div>
+
 ###
 
