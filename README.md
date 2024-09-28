@@ -56,13 +56,13 @@
 </div>
 
 <!-- Adding two images side by side -->
-<h3 align="center">Certifications</h3>
-<div align="center">
+<h3 align="left">Certifications</h3>
+<div align="left">
   <a href="https://drive.google.com/file/d/1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F/view?usp=sharing" >
-    <img src="https://drive.google.com/uc?id=1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F" alt="Certification 1" width="400" height="300" style="margin: 10px;" />
+    <img src="https://drive.google.com/uc?id=1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F" alt="Certification 1" width="450" height="300" style="margin: 10px; margin-right: 30px;" />
   </a>
   <a href="https://drive.google.com/file/d/16hT0UhzbqQP-dnAEtGplcQeNijabfnub/view?usp=sharing">
-    <img src="https://drive.google.com/uc?id=16hT0UhzbqQP-dnAEtGplcQeNijabfnub" alt="Certification 2" width="400" height="300" style="margin: 10px;" />
+    <img src="https://drive.google.com/uc?id=16hT0UhzbqQP-dnAEtGplcQeNijabfnub" alt="Certification 2" width="450" height="300" style="margin: 10px;" />
   </a>
 </div>
 
