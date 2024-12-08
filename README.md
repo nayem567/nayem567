@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayem567?tab=repositories](https://github.com/nayem567?tab=repositories)
 
-- 💬 Interested in **html, css, sass, bootstrap, Javascript, React**
+- 💬 Interested in **html, CSS, Javascript, Tailwind, React, NextJS**
 
 - 📫 My Portfolio Website : [https://mohaymenul-islam.com](https://mohaymenul-islam.com)
   
