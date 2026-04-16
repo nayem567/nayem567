@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohaymenul+Islam+Nayem;Frontend+Web+Developer;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohaymenul+Islam+Nayem;Frontend+Web+Developer;Next.js+%7C+React" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 I'm a passionate **Frontend Web Developer** exploring the endless possibilities of modern web technologies. I love building interactive, responsive, and user-friendly web applications.
 
-- 🔭 Currently working with **Next.js, React, and TypeScript**
+- 🔭 Currently working with **Next.js and React**
 - 👯 Open to collaborate on **innovative frontend projects**
 - 🌱 Continuously learning and improving my craft
 - 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, React, Next.js**
@@ -67,7 +67,6 @@ I'm a passionate **Frontend Web Developer** exploring the endless possibilities 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
