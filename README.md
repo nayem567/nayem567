@@ -1,76 +1,155 @@
-<h1 align="center">Hi 👋, I am Mohaymenul Islam Nayem</h1>
-<h3 align="center">A passionate Frontend Web Developer.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- I'm a front-end engineer exploring what’s possible with Next.js, React, and modern web technologies.
-
-
-- 👯 I’m looking to collaborate on **front end projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nayem567?tab=repositories](https://github.com/nayem567?tab=repositories)
-
-- 💬 Interested in **html, CSS, Javascript, Tailwind, React, NextJS**
-
-- 📫 My Portfolio Website : [https://mohaymenul-islam.com](https://mohaymenul-islam.com)
-  
-- Linktree: [https://linktr.ee/mohaymenul_islam](https://linktr.ee/mohaymenul_islam)
-
-- 📫 My Fiverr : [fiverr.com/mohaymenul_](https://www.fiverr.com/mohaymenul_)
-  
-- 📫 My Upwork : [upwork.com/freelancers/mohaymenuli2](https://www.upwork.com/freelancers/mohaymenuli2)
-
-- 📫 LinkedIn : [linkedin.com/in/mohaymenul-islam](www.linkedin.com/in/mohaymenul-islam)
-
-- 📫 Frontend Mentor Profile 🎉 : [https://www.frontendmentor.io/profile/nayem567](https://www.frontendmentor.io/profile/nayem567)
-
-- 📫 Reach Me **nayem567@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/nayem567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nayem567" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohaymenul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohaymenul-islam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13828297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13828297" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nayem567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nayem567" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem567&show_icons=true&locale=en&layout=compact" alt="nayem567" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayem567" alt="nayem567" /></a> </p>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayem567&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohaymenul+Islam+Nayem;Frontend+Web+Developer;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
-###
-
-
-###
-
-
-
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<!-- Adding two images side by side -->
-<h3 align="left">Certifications</h3>
-<div align="left">
-  <a href="https://drive.google.com/file/d/1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F/view?usp=sharing" >
-    <img src="https://drive.google.com/uc?id=1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F" alt="Certification 1" width="400" height="300" style="margin: 10px; margin-right: 30px;" />
-  </a>
-  <a href="https://drive.google.com/file/d/16hT0UhzbqQP-dnAEtGplcQeNijabfnub/view?usp=sharing">
-    <img src="https://drive.google.com/uc?id=16hT0UhzbqQP-dnAEtGplcQeNijabfnub" alt="Certification 2" width="400" height="300" style="margin: 10px;" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayem567&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/nayem567?tab=followers">
+    <img src="https://img.shields.io/github/followers/nayem567?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </div>
 
-###
+<br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding animation" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Frontend Web Developer** exploring the endless possibilities of modern web technologies. I love building interactive, responsive, and user-friendly web applications.
+
+- 🔭 Currently working with **Next.js, React, and TypeScript**
+- 👯 Open to collaborate on **innovative frontend projects**
+- 🌱 Continuously learning and improving my craft
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, React, Next.js**
+- 📧 Reach me at **nayem567@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://mohaymenul-islam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohaymenul-islam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/mohaymenul_islam" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="https://www.fiverr.com/mohaymenul_" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/mohaymenuli2" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://stackoverflow.com/users/13828297" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.frontendmentor.io/profile/nayem567" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Technologies
+<div align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+  </a>
+</div>
+
+### Tools & Design
+<div align="center">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayem567&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem567&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nayem567&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nayem567&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+  <a href="https://drive.google.com/uc?id=16hT0UhzbqQP-dnAEtGplcQeNijabfnub" target="_blank">
+    <img src="https://drive.google.com/uc?id=16hT0UhzbqQP-dnAEtGplcQeNijabfnub" alt="Certification 1" width="400" />
+  </a>
+  <a href="https://drive.google.com/uc?id=1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F" target="_blank">
+    <img src="https://drive.google.com/uc?id=1l6VXCIOs-demE71WMQFaTvnXDlUlzJ-F" alt="Certification 2" width="400" />
+  </a>
+</div>
+
+---
+
+## 📂 Featured Projects
+
+Check out my repositories and projects:
+- 👨‍💻 **All my projects:** [GitHub Repositories](https://github.com/nayem567?tab=repositories)
+- 🌟 **Portfolio Website:** [mohaymenul-islam.com](https://mohaymenul-islam.com)
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<div align="center">
+  <b>💙 Thanks for visiting my profile! Let's build something amazing together! 💙</b>
+</div>
